@@ -6,7 +6,7 @@ and deserializes JSON file to instances
 import json
 import os
 
-
+""" Class that serializes and deserializes JSON objects """
 class FileStorage:
     """ Class that serializes and deserializes JSON objects """
     __file_path = "file.json"

@@ -12,7 +12,7 @@ from models.review import Review
 import json
 import shlex
 
-
+"""Command processor"""
 class HBNBCommand(cmd.Cmd):
     """Command processor"""
 

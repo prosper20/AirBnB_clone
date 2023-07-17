@@ -4,7 +4,7 @@ Defines city
 """
 from models.base_model import BaseModel
 
-
+"""defines city to look for"""
 class City(BaseModel):
     """defines city to look for"""
     state_id = ""

@@ -4,7 +4,7 @@ Defines Place class
 """
 from models.base_model import BaseModel
 
-
+"""Defines Place class"""
 class Place(BaseModel):
     """Defines Place class"""
     city_id = ""
